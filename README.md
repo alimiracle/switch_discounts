@@ -1,6 +1,6 @@
 # switch_discounts
 a telegram bot to Send a notification when a new discount occurs in Nintendo store
-## Introduction
+## Introduction:
 I wrote this code for personal use.
 
 But I decided to publish it . you might benefit from it.
@@ -22,7 +22,7 @@ to install the bot
 Open your os terminal
 then clone the bot code useing git
 ``` bash
-git clone 
+git clone https://notabug.org/alimiracle/switch_discounts
 ```
 
 then type
@@ -57,9 +57,11 @@ then type
 ``` bash
 ruby switch_discounts.rb
 ```
+
 If you want to run the bot in the background
+
 use nohup
- ##getting help
+## getting help
 So you need help.
 
 People can help you, but first help them help you, and don't waste their time.
